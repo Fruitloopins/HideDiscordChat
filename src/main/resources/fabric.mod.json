@@ -2,22 +2,25 @@
   "schemaVersion": 1,
   "id": "hidediscordchat",
   "version": "${version}",
-
   "name": "HideDiscordChat",
   "description": "Hide DiscordSRV messages in chat",
-  "authors": [],
-  "contact": {},
-
+  "authors": [
+    "Fruitloopins"
+  ],
+  "contact": {
+    "repo": "https://github.com/Fruitloopins/HideDiscordChat"
+  },
   "license": "All-Rights-Reserved",
   "icon": "assets/hidediscordchat/icon.png",
-
   "environment": "client",
-  "entrypoints": {},
-
-
+  "entrypoints": {
+    "client": [
+      "com.fwloopins.hidediscordchat.client.HideDiscordChatClient"
+    ]
+  },
   "depends": {
     "fabricloader": ">=${loader_version}",
-        "fabric": "*",
+    "fabric": "*",
     "minecraft": "${minecraft_version}"
   }
 }
