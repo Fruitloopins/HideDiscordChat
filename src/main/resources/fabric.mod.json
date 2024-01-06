@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "hidediscordchat",
+  "version": "${version}",
+
+  "name": "HideDiscordChat",
+  "description": "Hide DiscordSRV messages in chat",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/hidediscordchat/icon.png",
+
+  "environment": "client",
+  "entrypoints": {},
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
