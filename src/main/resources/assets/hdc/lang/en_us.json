@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.HDC.title": "HideDiscordChat Config",
+
+  "text.autoconfig.HDC.category.Settings": "Settings",
+  "text.autoconfig.HDC.option.settings.enabled.@Tooltip": "If set to true, messages from Discord will not be shown",
+  "text.autoconfig.HDC.option.settings.enabled": "Enabled",
+
+  "text.autoconfig.HDC.option.settings.filteredRanks.@Tooltip": "Comma separated string of rank names to filter, e.g. Mod,Staff Manager,Developer. Type * to filter all rank names.",
+  "text.autoconfig.HDC.option.settings.filteredRanks": "Filtered Ranks",
+
+  "text.autoconfig.HDC.option.settings.exclusiveFilter.@Tooltip": "Set to true to make filtered ranks an exclusive list, e.g.: Mod,Staff Manager,Developer will only show messages from those ranks.",
+  "text.autoconfig.HDC.option.settings.exclusiveFilter": "Exclusive Filter"
+}
