@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "id": "hidediscordchat",
+  "id": "hideemcannoyances",
   "version": "${version}",
-  "name": "HideDiscordChat",
-  "description": "Hide DiscordSRV messages in chat",
+  "name": "HideEMCAnnoyances",
+  "description": "Hide annoying messages in EarthMC chat",
   "authors": [
     "Fruitloopins"
   ],
   "contact": {
     "homepage": "https://fwloopins.com",
-    "repo": "https://github.com/Fruitloopins/HideDiscordChat",
-    "issues": "https://github.com/Fruitloopins/HideDiscordChat/issues"
+    "repo": "https://github.com/Fruitloopins/HideEMCAnnoyances",
+    "issues": "https://github.com/Fruitloopins/HideEMCAnnoyances/issues"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/hdc/icon.png",
+  "icon": "assets/hea/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.fwloopins.hidediscordchat.client.HideDiscordChatClient"
+      "com.fwloopins.hideemcannoyances.client.HideEMCAnnoyancesClient"
     ],
     "modmenu": [
-      "com.fwloopins.hidediscordchat.client.config.ModMenuIntegration"
+      "com.fwloopins.hideemcannoyances.client.config.ModMenuIntegration"
     ]
   },
   "depends": {

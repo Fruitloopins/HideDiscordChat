@@ -1,0 +1,21 @@
+{
+  "text.autoconfig.HEA.title": "HideEMCAnnoyances Config",
+
+  "text.autoconfig.HEA.category.Settings": "Settings",
+  "text.autoconfig.HEA.option.settings.enabled.@Tooltip": "If set to false, the mod will do nothing",
+  "text.autoconfig.HEA.option.settings.enabled": "Enabled",
+  "text.autoconfig.HEA.option.settings.hideObamaMessages.@Tooltip": "If set to true, messages from Michelle Obama will not be shown",
+  "text.autoconfig.HEA.option.settings.hideObamaMessages": "Hide Obama messages",
+  "text.autoconfig.HEA.option.settings.hideVoteMessages.@Tooltip": "If set to true, vote messages will not be shown",
+  "text.autoconfig.HEA.option.settings.hideVoteMessages": "Hide vote messages",
+  "text.autoconfig.HEA.option.settings.hideKillMessages.@Tooltip": "If set to true, kill messages will not be shown",
+  "text.autoconfig.HEA.option.settings.hideKillMessages": "Hide kill messages",
+
+  "text.autoconfig.HEA.option.settings.discord": "Discord",
+  "text.autoconfig.HEA.option.settings.discord.hideDiscordMessages.@Tooltip": "If set to true, messages from Discord will not be shown",
+  "text.autoconfig.HEA.option.settings.discord.hideDiscordMessages": "Hide Discord messages",
+  "text.autoconfig.HEA.option.settings.discord.filteredRanks.@Tooltip": "Comma separated string of rank names to filter, e.g. Mod,Staff Manager,Developer. Type * to filter all rank names.",
+  "text.autoconfig.HEA.option.settings.discord.filteredRanks": "Filtered Ranks",
+  "text.autoconfig.HEA.option.settings.discord.exclusiveFilter.@Tooltip": "Set to true to make filtered ranks an exclusive list, e.g.: Mod,Staff Manager,Developer will only show messages from those ranks.",
+  "text.autoconfig.HEA.option.settings.discord.exclusiveFilter": "Exclusive Filter"
+}
